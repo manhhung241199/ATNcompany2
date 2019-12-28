@@ -1,0 +1,143 @@
+body{
+	 background-color: whitesmoke;
+	 padding: 0px;
+	 font-family: sans-serif;
+}
+	
+	.hnav{
+		background-color: #969595;
+		height: 30px;
+		position: relative;
+	}
+
+	
+	.third{
+	
+		width:100%;
+		background-color: #8DF1A5;
+		float: left;
+		overflow: visible;
+		
+
+	}
+
+	
+	
+	.product{
+		background-color: #F8F5A2;
+		height: 330px;
+		width: 24%;
+		margin: 0.5%;
+		float: left; 
+		
+	}
+	.name{
+		background-color: #C2F591;
+		height: 30px;
+		text-align: center; 
+
+
+
+	}
+	.image{
+		background-color: #F7865F;
+		height: 270px;
+
+	}
+	.price{
+		background-color: #A6C6C5;
+		height: 30px;
+		text-align: center; 
+	}
+
+	
+	.login a{
+		color: #2C2A2A;
+		font-size: 20px;
+		line-height: 30px;
+		text-decoration: none;
+		padding: 0 10px;<!-- khong gach chan -->
+		display: inline-block;
+
+	}
+	.login ul{
+		padding: 0;
+		margin: 0;
+		list-style-type: none;
+		position: absolute;
+		text-decoration: none;
+		top: 20px;
+		right: 40px;
+		}
+	.login li{
+		display: inline-block;
+	}
+  
+	
+	.login{
+		text-transform: uppercase;<!-- in dam -->
+		font-weight: 10px; <!-- in hoa -->
+
+	
+	}
+
+	.login a:hover{
+		background-color: #49E0F6;
+		color: #FBF5F5;
+	}
+	.hnav{
+		background-color: #969595;
+		height: 30px;
+		position: relative;
+	}
+	.hnav ul{
+		text-align: center;
+		padding: 0;
+		margin: 0;
+		list-style-type: none;
+
+	}
+	.hnav a{
+		color: #050505;
+		font-size: 20px;
+		line-height: 30px;
+		text-decoration: none;
+		padding: 0 10px;
+		display: inline-block;
+
+	}
+	.hnav li{
+		display: inline-block;
+
+	}
+	.hnav a:hover{
+		background-color: #49E0F6;
+		color: #F99EAF;
+	}
+	.search-box{
+		display: inline-flex;
+		width: 400px;
+		height: 30px;
+
+	}
+	.fifth{
+		height: 200px;
+		background-color: #928E8E;
+		font-size: 20px; 
+		margin: 100px 0px 0px 0px;
+		width: 100%;
+
+		
+
+	}
+	
+	
+	
+		img:hover {
+ 		 opacity: 0.6;
+ 		filter: alpha(opacity=50);
+		}
+	p{
+		text-indent:30px;
+	}
+	
